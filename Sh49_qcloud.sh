@@ -263,7 +263,7 @@ query_recordid() {
 {
     "Domain": "${domain}",
     "RecordType": "${domain_type}",
-    "SubDomain": "${name}"
+    "Subdomain": "${name}"
 }
 EOF
     )
